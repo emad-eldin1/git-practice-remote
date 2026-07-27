@@ -1,1 +1,3 @@
-# This is my first DevOps Project
+# This is my first DevOps 
+ ## Setup Instructions 
+ ## Clone This Repo 
