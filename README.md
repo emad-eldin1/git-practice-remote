@@ -8,3 +8,5 @@
  # hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 # This is the New Offer for Ramadan
  Contact : emadeldin@gmail.com 
+
+# This is An Update to simulate the conflict with rebase 
