@@ -10,3 +10,4 @@
  Contact : emadeldin@gmail.com 
 
 # This is An Update to simulate the conflict with rebase 
+this line has a mistake for testing the revert
